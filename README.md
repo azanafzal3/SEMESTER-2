@@ -82,15 +82,6 @@ Edit
 ./output
 Replace filename.cpp with your source file name and output with the executable name.
 ```
----
-## 📂 Folder Structure
-📂 Suggested Folder Structure
-OOP-Cpp/
-├── assignments
-├── project/
-│   └── hospital_management_system.cpp
-└── README.md
----
 
 ## 📬 Contact
 
