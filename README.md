@@ -29,6 +29,40 @@ This repository contains assignments and projects completed as part of the **Obj
 
 ---
 
+## 📘 Assignments Overview
+
+###  Basics & I/O
+- Simple C++ program
+- Variables, control structures, loops
+- Basic input/output handling
+
+###  Classes & Objects
+- Creating user-defined types
+- Constructors, destructors
+- Access specifiers
+
+###  Inheritance
+- Single and multiple inheritance
+- Base and derived class behavior
+- Constructor call order
+
+###  Operator Overloading
+- Overload `+`, `-`, `==`, `[]`, etc.
+- Member vs non-member overloading
+- Complex number example
+
+---
+
+## 📊 Final Project – Hospital Management System
+
+A menu-driven console application in C++ that allows:
+- Adding/removing patients
+- Searching records by ID or name
+- Saving and loading records using file handling
+- Demonstrates inheritance, operator overloading, and file I/O
+
+---
+
 ## 🛠 Tools & Requirements
 - Language: **C++**
 - Compiler: `g++` or any C++ compiler
@@ -58,11 +92,17 @@ OOP-Cpp/
 └── README.md
 ---
 
-## 👨‍💻 Author
-**Muhammad Azan Afzal**
-Roll No: 22I-1741
-National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad
+## 📬 Contact
+
+For any queries or suggestions:
+
+Muhammad Azan Afzal  
+Roll No: 22I-1741  
+FAST NUCES Islamabad
+
 ---
 
 ## 📃 License
-This repository is for academic use and learning purposes only.
+
+This repository is intended for educational purposes only.
+
