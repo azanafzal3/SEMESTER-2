@@ -47,6 +47,7 @@ Copy
 Edit
 ./output
 Replace filename.cpp with your source file name and output with the executable name.
+```
 ---
 ## 📂 Folder Structure
 📂 Suggested Folder Structure
