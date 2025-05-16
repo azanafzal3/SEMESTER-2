@@ -51,8 +51,6 @@ Replace filename.cpp with your source file name and output with the executable n
 ---
 ## 📂 Folder Structure
 📂 Suggested Folder Structure
-Copy
-Edit
 OOP-Cpp/
 ├── assignments
 ├── project/
@@ -60,11 +58,11 @@ OOP-Cpp/
 └── README.md
 ---
 
-👨‍💻 Author
-Muhammad Azan Afzal
+## 👨‍💻 Author
+**Muhammad Azan Afzal**
 Roll No: 22I-1741
 National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad
 ---
 
-📃 License
+## 📃 License
 This repository is for academic use and learning purposes only.
